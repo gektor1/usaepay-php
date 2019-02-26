@@ -18,8 +18,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "USAEPay": "src/"
-        }
+        "files": [
+            "usaepay.php"
+        ]
     }
 }
